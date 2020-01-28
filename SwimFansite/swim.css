@@ -5,10 +5,38 @@ text-emphasis-color: green;
 
 h2 {
 text-align: center;
+}
 
+h3 {
+background-color: darkolivegreen;
+text-align: justify;
+font-size: x-large;    
 }
 
 body {
-    background-color: aquamarine;
+background-color: purple;
+text-align: left;
 
+}
+
+a:hover{
+color: darkred;
+
+}
+
+a:visited{
+color: navajowhite
+
+}
+
+.gold{
+color: gold
+}
+
+.silver{
+color: silver
+}
+
+.bronze{
+color: brown
 }
